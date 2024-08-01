@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfb0f15e-15f4-479d-b8ac-53a873349b46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraCharacterBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraCharacterBase.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Uproject.Aura.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -38,6 +41,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;RiderCSharpLiveTemplatesSettingsId&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\MARCO\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\MARCO\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\MARCO\\AppData\\Local\\Symbols\\src&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
@@ -123,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722487809101</updated>
       <workItem from="1722487810354" duration="316000" />
+      <workItem from="1722488151762" duration="804000" />
     </task>
     <servers />
   </component>
