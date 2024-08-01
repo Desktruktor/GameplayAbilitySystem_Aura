@@ -1,0 +1,16 @@
+Binaries
+DerivatedDataCache
+Intermediate
+Save
+Build
+
+.vscode
+.vs
+*.VS.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
